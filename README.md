@@ -1,6 +1,6 @@
-# 🎬 MOVIE KITCHEN 🍖
+#  🍖 MOVIE KITCHEN 🎬
 
-## 🍖 Cook the iconic recipes from your favorite movies 📽️
+## 📽️ Cook the iconic recipes from your favorite movies 🍗
 
 ### > stack
 <p align="left">
