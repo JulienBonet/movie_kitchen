@@ -19,6 +19,10 @@
 
 WATCH THE DEMO : <a href="https://youtu.be/TjOTzU0hpMA" target="_blank">https://youtu.be/TjOTzU0hpMA</a>
 
-<img src="https://julienbonet.fr/images/movie_kitchen_illustr.jpg" alt="Movie Kitchen"/>
+<img src="https://julienbonet.fr/images/for_git/git_movie_kitchen.jpg" alt="Movie Kitchen"/>
+
+<img src="https://julienbonet.fr/images/for_git/git_movie_kitchen2.jpg" alt="Movie Kitchen"/>
+
+<img src="https://julienbonet.fr/images/for_git/git_movie_kitchen3.jpg" alt="Movie Kitchen"/>
 
 
